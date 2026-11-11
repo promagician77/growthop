@@ -1,0 +1,7 @@
+{
+  "name": "growthop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Funnel math, a CRM-export lead audit, AI lead triage, the CRM-to-Meta event loop and test-length planning.",
+  "scripts": { "dev": "python3 -m http.server 4321", "deploy": "vercel --prod" }
+}
